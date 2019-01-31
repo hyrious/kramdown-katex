@@ -1,4 +1,10 @@
-# `Kramdown::KaTeX`
+# ~~`Kramdown::KaTeX`~~
+
+Use [kramdown/math-katex](https://github.com/kramdown/math-katex) instead.
+
+- - -
+
+Original content:
 
 Notice: since [KaTeX](https://github.com/Khan/KaTeX) is built for speed,
 there's no need to use this library at server side if your target is browser,
